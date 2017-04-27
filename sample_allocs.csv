@@ -1,0 +1,101 @@
+ticker,w,Name,LastSale,MarketCap,IPOyear,Sector,Industry,Exchange
+ITT,0.0546521047402533,ITT Inc.,39.82,$3.53B,NA,Capital Goods,Fluid Controls,NYSE
+LYG,0.051191402532487,Lloyds Banking Group Plc,3.32,$59.31B,NA,Finance,Commercial Banks,NYSE
+RST,0.0491139972742639,Rosetta Stone,11.19,$247.8M,NA,Technology,Computer Software: Prepackaged Software,NYSE
+IPG,0.0450459438016341,"Interpublic Group of Companies, Inc. (The)",24.39,$9.64B,NA,Technology,Advertising,NYSE
+VG,0.0435768011555317,Vonage Holdings Corp.,6.41,$1.41B,NA,Public Utilities,Telecommunications Equipment,NYSE
+SPXC,0.0427553986005316,SPX Corporation,23.63,$1.01B,NA,Technology,Industrial Machinery/Components,NYSE
+ECA,0.0426222091258499,Encana Corporation,10.84,$10.55B,NA,Energy,Oil & Gas Production,NYSE
+MSM,0.0420762538145735,"MSC Industrial Direct Company, Inc.",89.56,$5.1B,NA,Capital Goods,Industrial Machinery/Components,NYSE
+VRX,0.0383457230257446,"Valeant Pharmaceuticals International, Inc.",8.51,$2.9B,NA,Health Care,Major Pharmaceuticals,NYSE
+ETE,0.0357352116432996,"Energy Transfer Equity, L.P.",18.26,$19.71B,NA,Public Utilities,Natural Gas Distribution,NYSE
+CFR,0.0338932965048687,"Cullen/Frost Bankers, Inc.",89.98,$5.75B,NA,Finance,Major Banks,NYSE
+UVE,0.0311828821016214,UNIVERSAL INSURANCE HOLDINGS INC,22.7,$798.42M,NA,Finance,Property-Casualty Insurers,NYSE
+SYT,0.0310810662947862,Syngenta AG,90.57,$41.76B,NA,Basic Industries,Agricultural Chemicals,NYSE
+BIP,0.0306104679594285,Brookfield Infrastructure Partners LP,38.57,$10.32B,NA,Consumer Services,Marine Transportation,NYSE
+NOA,0.0291334909813668,"North American Energy Partners, Inc.",4.85,$152.6M,NA,Energy,Oilfield Services/Equipment,NYSE
+ROP,0.0281028126578237,"Roper Technologies, Inc.",209.75,$21.37B,NA,Capital Goods,Industrial Machinery/Components,NYSE
+GSL,0.0247164017371258,"Global Ship Lease, Inc.",1.37,$75.32M,NA,Transportation,Marine Transportation,NYSE
+NKE,0.0209089528880392,"Nike, Inc.",55.85,$92.2B,NA,Consumer Non-Durables,Shoe Manufacturing,NYSE
+GIMO,0.0199684616142961,Gigamon Inc.,37.4,$1.37B,NA,Technology,EDP Services,NYSE
+VSI,0.0191669761502801,"Vitamin Shoppe, Inc",19.7,$461.47M,NA,Consumer Non-Durables,Food Chains,NYSE
+RACE,0.019000728991892,Ferrari N.V.,70.82,$17.38B,NA,Capital Goods,Auto Manufacturing,NYSE
+MDU,0.0187805398345476,"MDU Resources Group, Inc.",27.07,$5.29B,NA,Basic Industries,Mining & Quarrying of Nonmetallic Minerals (No Fuels),NYSE
+HR,0.0180728862550613,Healthcare Realty Trust Incorporated,33.82,$3.94B,NA,Consumer Services,Real Estate Investment Trusts,NYSE
+SHI,0.0176749704309344,"SINOPEC Shangai Petrochemical Company, Ltd.",56.81,$6.14B,NA,Basic Industries,Major Chemicals,NYSE
+GWB,0.0151925463222405,"Great Western Bancorp, Inc.",42.56,$2.5B,NA,Finance,Major Banks,NYSE
+EXC,0.0148502700394676,Exelon Corporation,35.03,$32.43B,NA,Public Utilities,Power Generation,NYSE
+OSB,0.0141249124765306,Norbord Inc.,29.88,$2.57B,NA,Basic Industries,Forest Products,NYSE
+MSB,0.0136391815055751,Mesabi Trust,16.35,$214.51M,NA,Basic Industries,Precious Metals,NYSE
+MMP,0.0132417249632287,Magellan Midstream Partners L.P.,75.83,$17.29B,NA,Energy,Natural Gas Distribution,NYSE
+AHT,0.0127370790985665,Ashford Hospitality Trust Inc,6.38,$618.98M,NA,Consumer Services,Real Estate Investment Trusts,NYSE
+TPC,0.0117095654199875,Tutor Perini Corporation,30.25,$1.5B,NA,Basic Industries,General Bldg Contractors - Nonresidential Bldgs,NYSE
+CMG,0.0101979107047202,"Chipotle Mexican Grill, Inc.",479.09,$13.74B,NA,Consumer Services,Restaurants,NYSE
+BAH,0.0094495550410545,Booz Allen Hamilton Holding Corporation,35.65,$5.35B,NA,Consumer Services,Professional Services,NYSE
+ENV,0.00922416748828611,"Envestnet, Inc",34.1,$1.48B,NA,Miscellaneous,Business Services,NYSE
+CLH,0.00860770430196071,"Clean Harbors, Inc.",57.13,$3.27B,NA,Basic Industries,Environmental Services,NYSE
+CAE,0.00858557905926729,CAE Inc,15.21,$4.08B,NA,Miscellaneous,Industrial Machinery/Components,NYSE
+AF,0.00820429813627852,Astoria Financial Corporation,20.23,$2.06B,NA,Finance,Savings Institutions,NYSE
+CNNX,0.00680029016104069,Cone Midstream Partners LP,21.25,$1.35B,NA,Public Utilities,Natural Gas Distribution,NYSE
+JONE,0.00677032813134911,"Jones Energy, Inc.",2.05,$179.14M,NA,Energy,Oil & Gas Production,NYSE
+MPW,0.0067274254340802,"Medical Properties Trust, Inc.",14.03,$4.5B,NA,Consumer Services,Real Estate Investment Trusts,NYSE
+MA,0.00663878952579297,Mastercard Incorporated,114.27,$126.71B,NA,Miscellaneous,Business Services,NYSE
+RXN,0.00653302731147539,Rexnord Corporation,22.65,$2.34B,NA,Technology,Industrial Machinery/Components,NYSE
+DBD,0.00544278440081199,Diebold Nixdorf Incorporated,27.7,$2.09B,NA,Miscellaneous,Office Equipment/Supplies/Services,NYSE
+TCS,0.00430264433171867,Container Store (The),4.24,$206.05M,NA,Consumer Services,Home Furnishings,NYSE
+GNW,0.00363399085365267,Genworth Financial Inc,4.07,$2.03B,NA,Finance,Life Insurance,NYSE
+HUBB,0.00329881556884572,Hubbell Inc,119,$6.59B,NA,Capital Goods,Electrical Products,NYSE
+BBD,0.00306673282964823,Banco Bradesco Sa,9.84,$54.43B,NA,Finance,Major Banks,NYSE
+BSM,0.00235386839943741,"Black Stone Minerals, L.P.",16.47,$3.17B,NA,Energy,Oil & Gas Production,NYSE
+REG,0.00221337675265308,Regency Centers Corporation,67.47,$11.46B,NA,Consumer Services,Real Estate Investment Trusts,NYSE
+RGA,0.00203699754116763,"Reinsurance Group of America, Incorporated",127.28,$8.2B,NA,Finance,Life Insurance,NYSE
+AA,0.00177979465980114,Alcoa Corporation,31.7,$5.84B,NA,Capital Goods,Metal Fabrications,NYSE
+BCRH,0.00122765942512027,Blue Capital Reinsurance Holdings Ltd.,19.5,$170.74M,NA,Finance,Property-Casualty Insurers,NYSE
+WSO,-0.000231187279687824,"Watsco, Inc.",138.62,$4.94B,NA,Consumer Durables,Industrial Machinery/Components,NYSE
+NEE,-0.000552815521158833,"NextEra Energy, Inc.",133.02,$62.28B,NA,Public Utilities,Electric Utilities: Central,NYSE
+BAC,-0.00390613660498894,Bank of America Corporation,22.71,$226.51B,NA,Finance,Major Banks,NYSE
+MTU,-0.00416706162381407,Mitsubishi UFJ Financial Group Inc,6.29,$84.47B,NA,Finance,Commercial Banks,NYSE
+ALE,-0.00486998352851592,"Allete, Inc.",70.38,$3.58B,NA,Public Utilities,Power Generation,NYSE
+PGRE,-0.00519588218232581,"Paramount Group, Inc.",17.02,$3.94B,NA,Consumer Services,Real Estate Investment Trusts,NYSE
+CBM,-0.00661788263297021,Cambrex Corporation,55.9,$1.9B,NA,Health Care,Major Pharmaceuticals,NYSE
+ZPIN,-0.00692407234940364,Zhaopin Limited,17.92,$999.4M,NA,Technology,Professional Services,NYSE
+HRC,-0.00812836202437008,Hill-Rom Holdings Inc,71.14,$4.65B,NA,Health Care,Medical/Dental Instruments,NYSE
+CBT,-0.00818942369404019,Cabot Corporation,59.04,$3.67B,NA,Basic Industries,Major Chemicals,NYSE
+SUN,-0.00868638926262842,Sunoco LP,30.22,$3.5B,NA,Energy,Oil Refining/Marketing,NYSE
+HLS,-0.00896277052027369,HealthSouth Corporation,43.29,$3.86B,NA,Health Care,Hospital/Nursing Management,NYSE
+MAC,-0.00964571723237261,Macerich Company (The),65.05,$9.26B,NA,Consumer Services,Real Estate Investment Trusts,NYSE
+PSO,-0.0099149411964704,"Pearson, Plc",8.02,$6.53B,NA,Consumer Services,Books,NYSE
+BXS,-0.0101202016142805,"BancorpSouth, Inc.",30.6,$2.86B,NA,Finance,Major Banks,NYSE
+GLW,-0.0102107830476112,Corning Incorporated,27.02,$25.05B,NA,Basic Industries,Telecommunications Equipment,NYSE
+HASI,-0.0108114090185481,"Hannon Armstrong Sustainable Infrastructure Capital, Inc.",21.35,$1.11B,NA,Consumer Services,Real Estate Investment Trusts,NYSE
+AXON,-0.0119388039536613,Axovant Sciences Ltd.,21.54,$2.3B,NA,Health Care,Major Pharmaceuticals,NYSE
+TCO,-0.0131568038933631,"Taubman Centers, Inc.",66.28,$4.02B,NA,Consumer Services,Real Estate Investment Trusts,NYSE
+MO,-0.0139639212967267,Altria Group,71.47,$138.35B,NA,Consumer Non-Durables,Farming/Seeds/Milling,NYSE
+BGS,-0.0173097643622373,"B&G Foods, Inc.",42.5,$2.83B,NA,Consumer Non-Durables,Packaged Foods,NYSE
+TKC,-0.0174671796267936,Turkcell Iletisim Hizmetleri AS,8.33,$7.33B,NA,Public Utilities,Telecommunications Equipment,NYSE
+HPQ,-0.0177670523356149,HP Inc.,18.29,$30.92B,NA,Technology,Computer Manufacturing,NYSE
+ERF,-0.0180269376832284,Enerplus Corporation,7.5,$1.8B,NA,Energy,Oil & Gas Production,NYSE
+FBHS,-0.0192135807163708,"Fortune Brands Home & Security, Inc.",62.82,$9.64B,NA,Basic Industries,Homebuilding,NYSE
+HMC,-0.0220169861324352,"Honda Motor Company, Ltd.",28.52,$51.4B,NA,Capital Goods,Auto Manufacturing,NYSE
+AMH,-0.0222759416401289,American Homes 4 Rent,23.62,$5.8B,NA,Consumer Services,Real Estate Investment Trusts,NYSE
+YUME,-0.0229247951931831,"YuMe, Inc.",4.12,$140.24M,NA,Technology,Advertising,NYSE
+SNP,-0.0229377237827026,China Petroleum & Chemical Corporation,80.84,$97.87B,NA,Energy,Integrated oil Companies,NYSE
+FCX,-0.0230579346706398,"Freeport-McMoran, Inc.",12.23,$17.68B,NA,Basic Industries,Precious Metals,NYSE
+RNR,-0.0244409795553627,RenaissanceRe Holdings Ltd.,138.99,$5.68B,NA,Finance,Property-Casualty Insurers,NYSE
+EME,-0.028293530510317,"EMCOR Group, Inc.",62.55,$3.73B,NA,Capital Goods,Engineering & Construction,NYSE
+DRD,-0.030309846389331,DRDGOLD Limited,4.54,$195.87M,NA,Basic Industries,Precious Metals,NYSE
+CAPL,-0.031236217738292,CrossAmerica Partners LP,25.5,$854.89M,NA,Energy,Oil Refining/Marketing,NYSE
+PGR,-0.0314662823361177,Progressive Corporation (The),39.38,$22.88B,NA,Finance,Property-Casualty Insurers,NYSE
+EARN,-0.0314778025593954,Ellington Residential Mortgage REIT,15.07,$137.6M,NA,Consumer Services,Real Estate Investment Trusts,NYSE
+NNN,-0.0317589641053823,National Retail Properties,45.25,$6.72B,NA,Consumer Services,Real Estate Investment Trusts,NYSE
+SBR,-0.0317639772249618,Sabine Royalty Trust,36.55,$532.88M,NA,Energy,Oil & Gas Production,NYSE
+VOC,-0.0332751884045781,VOC Energy Trust,4.77,$81.09M,NA,Energy,Oil & Gas Production,NYSE
+CHT,-0.0335909604671556,"Chunghwa Telecom Co., Ltd.",33.91,$26.31B,NA,Public Utilities,Telecommunications Equipment,NYSE
+SSD,-0.0337327881869127,"Simpson Manufacturing Company, Inc.",41.72,$1.99B,NA,Capital Goods,Industrial Machinery/Components,NYSE
+LQ,-0.0340406627433412,La Quinta Holdings Inc.,13.73,$1.61B,NA,Consumer Services,Hotels/Resorts,NYSE
+W,-0.0344500235682697,Wayfair Inc.,45.96,$3.97B,NA,Consumer Services,Catalog/Specialty Distribution,NYSE
+GNK,-0.0354230835773627,Genco Shipping & Trading Limited Warrants Expiring 12/31/2021 ,11.55,$397.51M,NA,Transportation,Marine Transportation,NYSE
+CIEN,-0.041108947371816,Ciena Corporation,21.77,$3.08B,NA,Public Utilities,Telecommunications Equipment,NYSE
+SUP,-0.0413046226674439,"Superior Industries International, Inc.",23.9,$595.07M,NA,Capital Goods,Auto Parts:O.E.M.,NYSE
+TUP,-0.0548196424877647,Tupperware Brands Corporation,64.22,$3.26B,NA,Consumer Non-Durables,Plastic Products,NYSE
+HHS,-0.0583140354856494,"Harte-Hanks, Inc.",1.4,$86.24M,NA,Technology,Advertising,NYSE
